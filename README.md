@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Abiw Zinatdinov 👋
 
-<!--
-**AbiwDev/AbiwDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Middle Backend Developer
 
-Here are some ideas to get you started:
+I'm a Backend Developer focused on building web applications and REST APIs with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+* Python
+* Django
+* Django REST Framework
+* PostgreSQL
+* SQLite
+* Git & GitHub
+* Postman
+* Docker
+
+### 🚀 Currently Learning
+
+* Advanced Django & DRF
+* PostgreSQL
+* Docker
+* Celery & Redis
+* Backend architecture
+
+### 📂 Projects
+
+I build practical backend projects to improve my development skills and gain experience with real-world backend technologies.
+
+### 🎯 Goal
+
+My goal is to become a strong Backend Developer and work on real-world projects.
+
+---
+
+📍 Nukus, Uzbekistan
