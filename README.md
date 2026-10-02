@@ -1,36 +1,73 @@
-# Hi, I'm Abiw Zinatdinov 👋
+# Hi, I'm Abiw 👋
 
 ### Middle Backend Developer
 
-I'm a Backend Developer focused on building web applications and REST APIs with Python.
+Backend Developer focused on building reliable web applications and REST APIs with Python and Django.
 
-### 🛠️ Technologies
+## 🛠️ Tech Stack
 
 * Python
 * Django
 * Django REST Framework
 * PostgreSQL
 * SQLite
+* Django ORM
+* JWT Authentication
 * Git & GitHub
 * Postman
-* Docker
 
-### 🚀 Currently Learning
+## 🔧 Backend Skills
+
+* REST API development
+* Authentication & Authorization
+* JWT
+* CRUD operations
+* Database relationships
+* Query optimization
+* `select_related()` & `prefetch_related()`
+* Transactions with `transaction.atomic()`
+* PostgreSQL
+* API testing
+
+## 🚀 Currently Working With
 
 * Advanced Django & DRF
-* PostgreSQL
+* PostgreSQL optimization
 * Docker
-* Celery & Redis
+* Redis
+* Celery
 * Backend architecture
 
-### 📂 Projects
+## 📂 Projects
 
-I build practical backend projects to improve my development skills and gain experience with real-world backend technologies.
+### QTechApp
 
-### 🎯 Goal
+E-commerce backend application built with Django and Django REST Framework.
 
-My goal is to become a strong Backend Developer and work on real-world projects.
+**Modules:** Users, Products, Cart, Orders, Payments.
 
----
+### NotesBackend
+
+REST API for a notes application built with Django REST Framework.
+
+### TestShop
+
+Backend REST API for a shop application built with Django and Django REST Framework.
+
+### News
+
+Django-based news application with users and API functionality.
+
+### DevBlog
+
+Django-based blog application for publishing and managing content.
+
+### Notes
+
+Django-based notes management web application.
+
+## 🎯 Career
+
+Building backend systems, improving software engineering practices, and working on real-world products.
 
 📍 Nukus, Uzbekistan
